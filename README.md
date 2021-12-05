@@ -1,17 +1,3 @@
-# Schoolmanagement
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/adminhomepage.png?raw=true)
-### Admin Manage Teacher
-![invoice snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/adminteacher.png?raw=true)
-### Attendance
-![doctor snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/attendance.png?raw=true)
-### Teacher Dashboard
-![doctor snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/teacher.png?raw=true)
 ---
 
 ## Functions
